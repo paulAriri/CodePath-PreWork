@@ -6,7 +6,7 @@ Pre-Work Project for CodePath
 ### App Description
 `TODO://` CodePath Pre Work App Description: Create an app that performs simple task: Change text color on button click
 
-![HelloPaul](HelloPaul.gif)
+![HelloPaul](HelloPaul!.gif)
 <a href="https://drive.google.com/uc?export=download&id=1fPcNGDcAZLqLSfeEyYVqP61JqxyZ9v9O">See the GIF here</a>
 
 
