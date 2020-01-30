@@ -1,12 +1,12 @@
 # CodePath-PreWork
 Pre-Work Project for CodePath
 
-## NAME_OF_YOUR_APP_HERE
+## HELLO_WORLD_APP
 
 ### App Description
 `TODO://` CodePath Pre Work App Description: Create an app that performs simple task: Change text color on button click
 
-<img src="https://drive.google.com/open?id=1fPcNGDcAZLqLSfeEyYVqP61JqxyZ9v9O" width=200><br>
+<img src="https://drive.google.com/uc?export=download&id=1fPcNGDcAZLqLSfeEyYVqP61JqxyZ9v9O" width=200><br>
 
 
 
